@@ -85,11 +85,13 @@
 
 Match Result
 
-| # | Team | Position | W/L<sub>St.3</sub> | D<sub>St.</sub> |
+| # | Team | Round | Score | Date |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | Team Vitality | 1st | | |
-| 2 | The Mongolz | 2nd | | |
-| 3 | MOUZ | 3rd | | |
+| 1 | Team Vitality | 13-10 | 3 | 2026.11.15 |
+| 2 | The Mongolz | 13-8 | 3 | 2026.11.15 |
+| 3 | MOUZ | 13-11 | 3 | 2026.11.15 |
+| 4 | Team Spirit | 13-6 | 3 | 2026.11.15 |
+
 
 
 clan-scrim-rulebook
